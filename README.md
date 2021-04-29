@@ -1,11 +1,11 @@
 ### Hello!!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Shubham Gupta here 
 - 🎓 Sophomore at NIT Hamirpur
 - 🔭 Currently contributing to Gssoc'21!
-- 🌱 Gaining knowlegde in the domain of OpenCV
+- 🌱 Gaining knowledge in the domain of OpenCV
 - :computer: 2 star rating on Codechef
 - :dart: Polishing my skills of Competitive Programming
-- 📫 Interested in automation using IOT
-- 😄 Pronouns:He
+- 📫 Interested in automation using IoT
+- 😄 Pronouns: He
 
 <p align ="center" width = "100%">
 <img src="https://github-readme-stats.vercel.app/api?username=ShubhamGupta577&hide=stars&show_icons=true&theme=radical">
