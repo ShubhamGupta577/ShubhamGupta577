@@ -1,8 +1,8 @@
 ### Hello!!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Shubham Gupta here 
-- 🎓 Sophomore at NIT Hamirpur
+- 🎓 Pre-final at NIT Hamirpur
 - 🔭 Contributed to Gssoc'21!
 - 🌱 Gaining knowledge in the domain of OpenCV
-- :computer: 2 star rating on Codechef
+- :computer: Codechef Best rating-1686
 - :dart: Polishing my skills of Competitive Programming
 - 📫 Interested in automation using IoT
 - 😄 Pronouns: He
