@@ -2,7 +2,7 @@
 - 🎓 Pre-final at NIT Hamirpur
 - 🔭 Contributed to Gssoc'21!
 - 🌱 Gaining knowledge in the domain of OpenCV
-- :computer: [Codechef Best rating-1686](https://www.codechef.com/users/shubham577)
+- :computer: [Codechef Best rating-1710](https://www.codechef.com/users/shubham577)
 - :dart: Polishing my skills of Competitive Programming
 - 📫 Interested in automation using IoT
 - 😄 Pronouns: He
