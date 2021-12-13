@@ -22,8 +22,6 @@
 
 ## Connect with me
 [<img align = "left" width = "40px" height = "40px" src = "https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg">](https://www.linkedin.com/in/shubham-gupta-958814190/)
-[<img align = "left" width = "40px" height = "40px" src = "https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg">](https://www.instagram.com/techy.fox/)
-[<img align ="left" width = "40px" height ="40px" src = "https://github.com/edent/SuperTinyIcons/blob/master/images/svg/facebook.svg"/>](https://www.facebook.com/profile.php?id=100006921040710)
 [<img width = "40px" height = "40px" src = "https://github.com/edent/SuperTinyIcons/blob/master/images/svg/email.svg">](mailto:shubham577agrawal@gmail.com)
 
 ## Visitor's count
