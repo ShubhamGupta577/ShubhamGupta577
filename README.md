@@ -8,7 +8,7 @@
 - 😄 Pronouns: He
 
 <p align ="center" width = "100%">
-<img src="https://github-readme-stats.vercel.app/api?username=ShubhamGupta577&hide=stars&show_icons=true&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api?username=ShubhamGupta577&hide=stars&show_icons=true&theme=radical&include_all_commits=1">
 </p>
 
 ## Tech Stack
