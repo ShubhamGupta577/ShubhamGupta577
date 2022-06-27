@@ -1,4 +1,4 @@
-### Hello!!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Shubham Gupta here 
+### Hello!!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="29px"> Shubham Gupta here 
 - 🎓 Pre-final at NIT Hamirpur
 - 🔭 Contributed to Gssoc'21!
 - 🌱 Gaining knowledge in the domain of OpenCV
