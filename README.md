@@ -1,9 +1,9 @@
 ### Hello!!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="29px"> Shubham Gupta here 
 - 🎓 Pre-final at NIT Hamirpur
 - 🔭 Contributed to Gssoc'21!
-- 🌱 Gaining knowledge in the domain of OpenCV
+- 🌱 Gaining knowledge of the Electronics World
 - :computer: [Codechef Best rating-1710](https://www.codechef.com/users/shubham577)
-- :dart: Polishing my skills of Competitive Programming
+- :dart: Polishing my skills of HDL-Verilog
 - 📫 Interested in automation using IoT
 - 😄 Pronouns: He
 
